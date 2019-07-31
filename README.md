@@ -28,3 +28,12 @@
 * ./ngrok http 80
 
 <img src=https://github.com/error404-notfound/RevoltShinG/blob/master/Captura%20de%20pantalla%20de%202019-07-30%2014-35-46.png>
+
+*  <h3>Usando SERVEO</h3>
+
+* ssh -R facebook-mx-promocion.serveo.net:80:localhost:80 serveo.net
+
+<img src=https://github.com/error404-notfound/RevoltShinG/blob/master/Captura%20de%20pantalla%20de%202019-07-30%2014-43-51.png>
+
+
+
