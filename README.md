@@ -17,6 +17,12 @@ python3 RevoltShinG.py
 
 <img src="https://github.com/error404-notfound/RevoltShinG/blob/master/Captura%20de%20pantalla%20de%202019-07-30%2014-31-33.png">
 
+<h3> Ataque Fuera De LAN: </h3>
 
+* Usando NGROK
 
+* https://ngrok.com/download
 
+* ./ngrok http 80
+
+https://github.com/error404-notfound/RevoltShinG/blob/master/Captura%20de%20pantalla%20de%202019-07-30%2014-35-46.png
