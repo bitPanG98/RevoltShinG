@@ -11,6 +11,8 @@ python3 RevoltShinG.py
 
 2) editar url_destino https://google.com/
 
+3) editar user_agent Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+
 3) iniciar
 
 <img src="https://github.com/error404-notfound/RevoltShinG/blob/master/Captura%20de%20pantalla%20de%202019-07-30%2014-31-33.png">
