@@ -36,4 +36,6 @@
 <img src=https://github.com/error404-notfound/RevoltShinG/blob/master/Captura%20de%20pantalla%20de%202019-07-30%2014-43-51.png>
 
 
+<h3> Credenciales Capturadas: </h3>
 
+<img src=https://github.com/error404-notfound/RevoltShinG/blob/master/Captura%20de%20pantalla%20de%202019-07-30%2014-32-28.png>
