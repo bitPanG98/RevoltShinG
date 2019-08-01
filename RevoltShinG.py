@@ -36,7 +36,8 @@ def main():
 					
 			        if(comm[1]=="port"):
 					global port
-					port=comm[2]
+					port=int(comm[2])
+					
 					
 
 				if(comm[1]=="url_destino"):
