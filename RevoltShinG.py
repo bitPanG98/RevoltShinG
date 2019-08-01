@@ -82,7 +82,7 @@ def help():
 	print("\tuser_agent  :",user_agent)
 	print()
 	
-port=int(80)
+port=int(8080)
 url="https://es-es.facebook.com"
 url_destino="https://es-es.facebook.com"
 user_agent="Mozilla/5.0 (X11; Linux i686; rv:64.0) Gecko/20100101 Firefox/64.0"
