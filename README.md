@@ -44,6 +44,8 @@
 
 * pkg install git
 
+* pkg install python3
+
 * git clone https://github.com/error404-notfound/RevoltShinG
 
 * cd RevoltShinG
