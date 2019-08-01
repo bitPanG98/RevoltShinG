@@ -48,6 +48,6 @@
 
 * cd RevoltShinG
 
-* pip3 install BeautifulSoup
+* pip3 install bs4
 
 * python3 RevoltShinG.py
