@@ -33,12 +33,16 @@ def main():
 				if(comm[1]=="url"):
 					global url
 					url=comm[2]
-					print("URL=",url)
+					
+			        if(comm[1]=="port"):
+					global port
+					port=comm[2]
+					
 
 				if(comm[1]=="url_destino"):
 					global url_destino
 					url_destino=comm[2]
-					print("URL DESTINO=",url_destino)
+					
 
 				if(comm[1]=="user_agent"):
 					global user_agent
@@ -46,7 +50,7 @@ def main():
 						user_agent=comm[2]
 					else:
 						user_agent=""
-					print("User-agent=",user_agent)
+					
 		
 			elif comm[0]=="iniciar":
 				w=revoltshing( url, port)
@@ -68,7 +72,7 @@ def main():
 
 def help():
 	
-	print("\teditar      : Editar  [url,url_destino,user_agent]")
+	print("\teditar      : Editar  [url,port,url_destino,user_agent]")
 	print ("\tiniciar     : Iniciar Server")
 	print("\texit        : Salir")
 	print("\tport        :",port)
@@ -77,7 +81,7 @@ def help():
 	print("\tuser_agent  :",user_agent)
 	print()
 	
-port=int(80)
+port=int(8080)
 url="https://es-es.facebook.com"
 url_destino="https://es-es.facebook.com"
 user_agent="Mozilla/5.0 (X11; Linux i686; rv:64.0) Gecko/20100101 Firefox/64.0"
