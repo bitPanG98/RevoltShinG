@@ -34,11 +34,11 @@ def main():
 					global url
 					url=comm[2]
 					
-			        if(comm[1]=="port"):
+				
+				if(comm[1]=="port"):
 					global port
 					port=int(comm[2])
-					
-					
+                   
 
 				if(comm[1]=="url_destino"):
 					global url_destino
@@ -73,7 +73,7 @@ def main():
 
 def help():
 	
-	print("\teditar      : Editar  [url,port,url_destino,user_agent]")
+	print("\teditar      : Editar  [url,url_destino,user_agent]")
 	print ("\tiniciar     : Iniciar Server")
 	print("\texit        : Salir")
 	print("\tport        :",port)
@@ -82,7 +82,7 @@ def help():
 	print("\tuser_agent  :",user_agent)
 	print()
 	
-port=int(8080)
+port=int(80)
 url="https://es-es.facebook.com"
 url_destino="https://es-es.facebook.com"
 user_agent="Mozilla/5.0 (X11; Linux i686; rv:64.0) Gecko/20100101 Firefox/64.0"
