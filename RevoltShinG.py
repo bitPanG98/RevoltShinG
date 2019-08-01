@@ -23,7 +23,7 @@ def main():
 		help()
 		try:
 			
-			comm=input("RevoltShinG>> ").split()
+			comm=input("RevoltShinG >> ").split()
 			
 		
 			if not comm:
