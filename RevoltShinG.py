@@ -73,7 +73,7 @@ def main():
 
 def help():
 	
-	print("\teditar      : Editar  [url,url_destino,user_agent]")
+	print("\teditar      : Editar  [url,port,url_destino,user_agent]")
 	print ("\tiniciar     : Iniciar Server")
 	print("\texit        : Salir")
 	print("\tport        :",port)
